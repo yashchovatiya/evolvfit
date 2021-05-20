@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/evolvfit/static/css/main.d943c6b9.chunk.css",
+    "main.js": "/evolvfit/static/js/main.fe7c7e41.chunk.js",
+    "main.js.map": "/evolvfit/static/js/main.fe7c7e41.chunk.js.map",
+    "runtime-main.js": "/evolvfit/static/js/runtime-main.d3ed71e2.js",
+    "runtime-main.js.map": "/evolvfit/static/js/runtime-main.d3ed71e2.js.map",
+    "static/css/2.3d5167d2.chunk.css": "/evolvfit/static/css/2.3d5167d2.chunk.css",
+    "static/js/2.68c912a9.chunk.js": "/evolvfit/static/js/2.68c912a9.chunk.js",
+    "static/js/2.68c912a9.chunk.js.map": "/evolvfit/static/js/2.68c912a9.chunk.js.map",
+    "index.html": "/evolvfit/index.html",
+    "static/css/2.3d5167d2.chunk.css.map": "/evolvfit/static/css/2.3d5167d2.chunk.css.map",
+    "static/css/main.d943c6b9.chunk.css.map": "/evolvfit/static/css/main.d943c6b9.chunk.css.map",
+    "static/js/2.68c912a9.chunk.js.LICENSE.txt": "/evolvfit/static/js/2.68c912a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3ed71e2.js",
+    "static/css/2.3d5167d2.chunk.css",
+    "static/js/2.68c912a9.chunk.js",
+    "static/css/main.d943c6b9.chunk.css",
+    "static/js/main.fe7c7e41.chunk.js"
+  ]
+}
