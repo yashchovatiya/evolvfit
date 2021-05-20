@@ -1,4 +1,4 @@
-# deployed on Heroku
+# Deployed on Heroku
 link: https://evolvfit.herokuapp.com/
 # Getting Started with Create React App
 
